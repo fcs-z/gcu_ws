@@ -1,4 +1,4 @@
-# ubuntu2204镜像
+# Ubuntu2204镜像
 http://mirrors.aliyun.com/ubuntu-releases/22.04/?spm=a2c6h.25603864.0.0.58d44ddaF27DHo，
 
 选择ubuntu-22.04.5-desktop-amd64.iso----4.4GB
