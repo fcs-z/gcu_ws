@@ -18,8 +18,8 @@ git clone https://github.com/unitreerobotics/unitree_rl_lab.git
 ```
 #### 1.3 il
 ```
-```
 git clone https://github.com/unitreerobotics/unitree_IL_lerobot.git
+```
 ### 2 unofficial
 #### 2.1 go2_ros2
 ```
