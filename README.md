@@ -25,3 +25,7 @@ git clone https://github.com/unitreerobotics/unitree_IL_lerobot.git
 ```
 git clone https://github.com/anujjain-dev/unitree-go2-ros2.git
 ```
+#### 2.1 rl
+```
+git clone https://github.com/fan-ziqi/robot_lab.git
+```
