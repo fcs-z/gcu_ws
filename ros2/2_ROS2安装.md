@@ -1,3 +1,5 @@
 # ROS2安装
-http://www.zhangshiyu.com/post/174506.html，
+```
+https://blog.csdn.net/weixin_55944949/article/details/140373710
+```
 ros2版本选择humble桌面版
